@@ -1,8 +1,8 @@
 # About Me
-My name is Aadhar Toshniwal. I am an CSE student at Panjab University, India.
+My name is Aadhar Toshniwal. I am a CSE student at Panjab University,India.
 
 # Experience
-Just started programming.Experiences coming soon...
+Just started programming.Experiences coming soon.
 
 # Interests
 Open source, Machine learning and Artificial Intelligence.
