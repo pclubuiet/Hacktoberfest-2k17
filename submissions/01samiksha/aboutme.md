@@ -3,7 +3,7 @@ My name is Samiksha Gulati. I am a CSE student at UIET,Panjab University, India.
 
 # Experience
 <<<<<<< HEAD
-None as such.
+I am a programmer.
 
 # Interests
 Programming.
