@@ -1,7 +1,7 @@
 # About me
  My name is Yeshi Dorjee and right now I am doing B.E in IT at Panjab University,Chandigarh,India
 
-#Intrest
+#Interest
  pyhton, Web development, Explore the new places and travelling.
 
 #Contact Info
