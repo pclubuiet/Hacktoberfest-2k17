@@ -8,9 +8,9 @@ I am an open source contributor at KDE. I have also been a Season of KDE and a G
 Open source, Machine learning and development.
 
 # Contact Info
-Email: [divyam3897@gmail.com](mailto:divyam3897@gmail.com)  
+Email: [divyam3897@gmail.com](mailto:divyam3897@gmail.com)
 
-Twitter: [@divyam3897](https://twitter.com/divyam3897)  
+Twitter: [@divyam3897](https://twitter.com/divyam3897)
 
 Facebook profile: [Divyam Madaan](https://www.facebook.com/divyam.madaan.1)
 
