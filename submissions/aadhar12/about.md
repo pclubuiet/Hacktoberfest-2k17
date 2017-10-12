@@ -1,5 +1,5 @@
 # About Me
-My name is Aadhar Toshniwal. I am a CSE student at Panjab University,India.
+My name is Aadhar Toshniwal. I am a CSE student at Panjab University, India.
 # Experience
 Just started programming.Experiences coming soon.
 # Interests
@@ -10,4 +10,3 @@ Facebook profile: [Aadhar Toshniwal](https://www.facebook.com/aadhar.toshniwal.5
 Github: [aadhar12](https://github.com/aadhar12)
 # Emoji
 My favorite emoji is :smile:
-
