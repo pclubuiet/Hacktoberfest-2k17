@@ -9,4 +9,3 @@ Email: [kaurjeewanjot47@gmail.com](mailto:kaurjeewanjot47@gmail.com)
 Github: [jeewanjotkaur](https://github.com/jeewanjotkaur)
 # Emoji
 My favorite emoji is :smile:
-
