@@ -7,13 +7,13 @@
 #Contact Info
 Email : [yeshijinsel@gmail.com]
 
-Facebook profile : [Yeshi Bartsampa] (https://www.facebook.com/yeshi.dorjee.921)
+Facebook profile : [Yeshi Bartsampa](https://www.facebook.com/yeshi.dorjee.921)
 
-twitter : [Yeshi Jinsel] (https://twitter.com/JinselC)
+twitter : [Yeshi Jinsel](https://twitter.com/JinselC)
 
-Github : [Yeshi Dorjee] (https://github.com/yeshijinsel)
+Github : [Yeshi Dorjee](https://github.com/yeshijinsel)
 
-Linkedin : [Yeshi] (https://www.linkedin.com/in/yeshi-dorjee-775538139/)
+Linkedin : [Yeshi](https://www.linkedin.com/in/yeshi-dorjee-775538139/)
 
 #Emoji
  My best EMOJI : Thumbs up
