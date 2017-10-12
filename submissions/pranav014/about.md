@@ -12,4 +12,3 @@ Linkedin: [Pranav](https://www.linkedin.com/in/pranav-kumar-a0201512a/)
 Github: [Pranav](https://github.com/pranav014)
 # Emoji
 My favorite emoji is :smile:
-
