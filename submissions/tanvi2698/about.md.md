@@ -1,0 +1,13 @@
+# About Me
+My name is Tanvi. I am a CSE student at Panjab University, India. 
+# Experience
+Not Much. 
+# Interests
+Coding. 
+# Contact Info
+Email: [tpirramba@gmail.com](mailto:tpirramba@gmail.com)   
+Facebook profile: [Tanvi Pirramba](https://www.facebook.com/tanvi.pirramba)  
+Github: [Tanvi2698](https://github.com/Tanvi2698)
+# Emoji
+My favorite emoji is :smile:.
+
