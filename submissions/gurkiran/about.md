@@ -3,7 +3,7 @@ My name is Gurkiran Kaur. I am an IT student at Panjab University, India.
 # Experience
 I am novice in open source development. 
 # Interests
-Open source,Web development. 
+Open source, Web development. 
 # Contact Info
 Email: [rubalpartal20@gmail.com](mailto:rubalpartal20@gmail.com)  
 Twitter: [@RubalPartal](https://twitter.com/RubalPartal)  
