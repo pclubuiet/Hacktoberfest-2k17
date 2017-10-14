@@ -8,4 +8,4 @@ Coding.
 Email: [raviroushan3534@gmail.com](mailto:raviroushan3534@gmail.com)  
 Github: [krsuumar](https://github.com/krsuumar)
 # Emoji
-My favorite emoji is :smile:. 
+My favorite emoji is :smile:.;
