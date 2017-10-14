@@ -8,4 +8,4 @@ Coding.
 Email: [kanika9068@gmail.com](mailto:kanika9068@gmail.com)  
 Github: [kanika9068](https://github.com/kanika9068)
 # Emoji
-My favorite emoji is :smile:.
+My favorite emoji is :smile:. 
