@@ -1,9 +1,9 @@
 # Hacktoberfest-2k17
-Official repository of Hacktoberfest for Programming club UIET, Panjab University
+Official repository of Hacktoberfest for Programming Club UIET at Panjab University.
 
 ## CONTRIBUTING
 
-* This repository is for new contributors of Panjab University for Hacktoberfest for the year 2k17. It's basic aim is to get people started with Open Source Contribution. 
+* This repository is for new contributors of Panjab University for Hacktoberfest for the year 2k17. Its basic aim is to get people started with Open Source Contribution. 
 
 ## Development guidelines:
 To get ready to submit exercises:
